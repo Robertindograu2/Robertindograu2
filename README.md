@@ -1,16 +1,18 @@
-## Hi there 👋
+Bem vindo ao meu perfil 
 
-<!--
-**Robertindograu2/Robertindograu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ronaldo Rogerio Junior
 
-Here are some ideas to get you started:
+Minhas principais atividades na plataforma estão relacionados à:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Aulas do Alura;
+-Programação Javascript 💀
+
+Eu sou o Rei do Rio
+Assinado: Rei do Rio
+
+Contato:
+Riot Games LOL
+Nick: Cleitin do grau#001 
+Mono: tk o peixe boi
+
+![](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_20.jpg)
